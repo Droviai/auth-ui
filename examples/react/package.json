@@ -10,7 +10,7 @@
   "build:css": "tailwindcss -m -i ./src/tailwind.css -o src/app.css",
   "preview": "vite preview",
   "build": "npm run build:example"
-}
+
   },
   "dependencies": {
     "@supabase/auth-ui-react": "workspace:*",
